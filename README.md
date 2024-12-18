@@ -3,20 +3,20 @@ hello there! i'm u1terior, the polyglotal polymath who does the most insane math
 here's a list of random things that are pretty cool about me:
 - i'm *very* good at civics
 - i program in ~14 languages
- - html
- - css
- - js
- - ts
- - lua
- - java
- - sql
- - r
- - rust (limited)
- - arm64 (limited)
- - latex
- - c
- - swift
- - python
+  - html
+  - css
+  - js
+  - ts
+  - lua
+  - java
+  - sql
+  - r
+  - rust (limited)
+  - arm64 (limited)
+  - latex
+  - c
+  - swift
+  - python
 - i speak english natively, spanish fluently, decent french & german, and very minor italian
 - i've made a [mathematical law](https://u1t.dev/set-theory-paper)
 - i love my newtonian gravitational physics & astrophysics
