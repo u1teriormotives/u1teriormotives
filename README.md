@@ -21,3 +21,7 @@ here's a list of random things that are pretty cool about me:
 - i've made a [mathematical law](https://academics.u1t.dev/archived-interfinite-law) (this is no longer valid; i'm no longer supporting the law. i will be writing a hypothesis on this soon)
 - i love my newtonian gravitational physics & astrophysics
 - i've also made an unbreakable encryption that has keys in the mega*BYTES* of data; although most of it is just \*noise\*, it's still ***very*** powerful
+
+WHY DID I CHOOSE TO MAKE AN HTML RENDERING ENGINE WHYYYYYYYYYYYY
+
+OH MY GOD THE DOM IS SO ANNOYING
