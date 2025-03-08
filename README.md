@@ -26,3 +26,5 @@ here's a list of random things that are pretty cool about me:
 WHY DID I CHOOSE TO MAKE AN HTML RENDERING ENGINE WHYYYYYYYYYYYY
 
 OH MY GOD THE DOM IS SO ANNOYING
+
+note: i can write OOP in many languages more than the list, but i write most commonly in those languages/understand those languages the best
