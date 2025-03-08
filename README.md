@@ -2,7 +2,7 @@ hello there! i'm u1terior, the polyglotal polymath who does the most insane math
 
 here's a list of random things that are pretty cool about me:
 - i'm *very* good at civics
-- i program in ~14 languages
+- i program in ~15 languages
   - html
   - css
   - js
@@ -17,6 +17,7 @@ here's a list of random things that are pretty cool about me:
   - c
   - swift
   - python
+  - c++
 - i speak english natively, spanish fluently, decent french & german, and very minor italian
 - i've made a [mathematical law](https://academics.u1t.dev/archived-interfinite-law) (this is no longer valid; i'm no longer supporting the law. i will be writing a hypothesis on this soon)
 - i love my newtonian gravitational physics & astrophysics
