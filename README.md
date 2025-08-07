@@ -1,31 +1,20 @@
-hello there! i'm u1terior, the polyglotal polymath who does the most insane mathematical stuff you've ever seen; zermelo & fraenkel et al fear me for what i have done to the set theory framework.
+buonasera, sono u1terior
 
-here's a list of random things that are pretty cool about me:
-- i'm *very* good at civics
-- i program in ~16 languages
-  - html
-  - css
-  - js
-  - ts
-  - lua
-  - java
-  - sql
-  - r
-  - rust (limited)
-  - arm64 (limited)
-  - latex
-  - c
-  - swift
-  - python
-  - c++
-  - c#
-- i speak english natively, spanish fluently, decent french & german, and very minor italian
-- i've made a [mathematical law](https://academics.u1t.dev/archived-interfinite-law) (this is no longer valid; i'm no longer supporting the law. i will be writing a hypothesis on this soon)
-- i love my newtonian gravitational physics & astrophysics
-- i've also made an unbreakable encryption that has keys in the mega*BYTES* of data; although most of it is just \*noise\*, it's still ***very*** powerful
+whosoever could i be? – that's a simple answer: l'homme qui sait toute (exaggeration); i have experience programming in >16 languages, i have experience in numerous spoken languages, and i can do some very fun math.
 
-WHY DID I CHOOSE TO MAKE AN HTML RENDERING ENGINE WHYYYYYYYYYYYY
+---
 
-OH MY GOD THE DOM IS SO ANNOYING
+do i do commissions? NO – i am not doing commissions (at this moment at least; i'm a very busy person); instead, i make open-source software that you're welcome to take & build off of so long as you abide by the license
 
-note: i can write OOP in many languages more than the list, but i write most commonly in those languages/understand those languages the best
+---
+
+i work in languages such as
+- JavaScript & TypeScript
+- C(++/#)
+- Rust (occasionally)
+- ARM64
+- Python
+- R
+- SQL
+
+and many others; to see the full list, visit [my website](https://u1t.dev)
