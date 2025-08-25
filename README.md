@@ -18,3 +18,5 @@ i work in languages such as
 - SQL
 
 and many others; to see the full list, visit [my website](https://u1t.dev)
+
+if you're wondering why i have such quick posts from the inception of repositories, that's because i write down the code on my actual disk first and only then do i copy it over to github manually
