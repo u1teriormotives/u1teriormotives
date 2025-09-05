@@ -16,6 +16,7 @@ i work in languages such as
 - Python
 - R
 - SQL
+- Go
 
 and many others; to see the full list, visit [my website](https://u1t.dev)
 
